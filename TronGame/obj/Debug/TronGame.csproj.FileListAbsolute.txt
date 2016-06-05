@@ -1,0 +1,6 @@
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\TronGame\bin\Debug\TronGame.exe.config
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\TronGame\bin\Debug\TronGame.exe
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\TronGame\bin\Debug\TronGame.pdb
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\TronGame\obj\Debug\TronGame.csprojResolveAssemblyReference.cache
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\TronGame\obj\Debug\TronGame.exe
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\TronGame\obj\Debug\TronGame.pdb

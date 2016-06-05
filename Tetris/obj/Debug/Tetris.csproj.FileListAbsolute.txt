@@ -1,0 +1,6 @@
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\Tetris\bin\Debug\Tetris.exe.config
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\Tetris\bin\Debug\Tetris.exe
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\Tetris\bin\Debug\Tetris.pdb
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\Tetris\obj\Debug\Tetris.csprojResolveAssemblyReference.cache
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\Tetris\obj\Debug\Tetris.exe
+D:\Fill's Documents\Visual Studio 2015\Projects\Cool-Stuff\Tetris\obj\Debug\Tetris.pdb
